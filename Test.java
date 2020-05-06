@@ -1,6 +1,6 @@
 Class Test{
 	public static void main(String [] args){
-		Sysyem.out.println("Heo Git");
+		Sysyem.out.println("Hello Git");
 		 System.out.println("Hi Git")
 
 	}
